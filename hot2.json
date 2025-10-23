@@ -479,7 +479,7 @@
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
-        {
+    {
         "name": "PRIO Silver, 3 Bulan",
         "price": "Rp 0",
         "detail": "PRIO Silver, 3 Bulan masa aktif 3 Bulan. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
@@ -539,7 +539,7 @@
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
-        {
+    {
         "name": "myPRIO Silver X 2bln",
         "price": "Rp 0",
         "detail": "myPRIO Silver, 2 Bulan masa aktif 2 Bulan. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
@@ -569,7 +569,7 @@
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
-        {
+    {
         "name": "myPRIO Silver X 12bln",
         "price": "Rp 0",
         "detail": "myPRIO Silver, 12 Bulan masa aktif 12 Bulan. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
@@ -599,7 +599,7 @@
         "token_confirmation_idx": 0,
         "amount_idx": -1
     },
-        {
+    {
         "name": "myPRIO Silver X 1bln",
         "price": "Rp 0",
         "detail": "myPRIO Silver, 1 Bulan masa aktif 1 Bulan. Bisa akumulasi.\nDWYOR\nSupported payment: Balance.",
