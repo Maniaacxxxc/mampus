@@ -688,5 +688,26 @@
         "overwrite_amount": -1,
         "token_confirmation_idx": 0,
         "amount_idx": -1
-    }
+    },
+    {
+        "name": "Daily Worry Free Quota",
+        "price": "Rp 0",
+        "detail": "Memanggil debt collector XL ke rumah kalian.\nDWYOR\nSupported payment: Balance.",
+        "packages": [
+            {
+                "family_name": "Daily Worry Free Quota",
+                "family_code": "02378733-eb10-40b0-8d33-74d36795f360",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "db0975a1-bd16-4976-85e6-45ece0aed3fa",
+                "option_name": "7Daily Worry Free Quota",
+                "order": 7
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 257000,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
 ]
