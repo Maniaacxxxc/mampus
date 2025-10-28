@@ -760,5 +760,35 @@
     "overwrite_amount": 99000,
     "token_confirmation_idx": 0,
     "amount_idx": -1
+},
+{
+    "name": "TES",
+    "price": "Rp 0",
+    "detail": "Paket khusus untuk ibadah Umrah & Haji dengan kuota unlimited. Berkah dan lancar ibadah.\nBarokallahu fiik\nSupported payment: Balance, E-Wallet, QRIS.",
+    "packages": [
+        {
+            "family_name": "myPRIO X Unlimited",
+            "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+            "is_enterprise": false,
+            "migration_type": "NONE",
+            "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+            "option_name": "PAKET BERKAH UMRAH",
+            "order": 27
+        },
+        {
+            "family_name": "Paket Haji Mabrur",
+            "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+            "is_enterprise": false,
+            "migration_type": "NONE",
+            "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+            "option_name": "HAJI MABRUR PLUS",
+            "order": 5
+        }
+    ],
+    "payment_for": "BUY_PACKAGE",
+    "ask_overwrite": false,
+    "overwrite_amount": 99000,
+    "token_confirmation_idx": 0,
+    "amount_idx": -1
 }
 ]
