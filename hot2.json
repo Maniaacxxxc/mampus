@@ -762,7 +762,7 @@
     "amount_idx": -1
 },
 {
-    "name": "TES",
+    "name": "TES2",
     "price": "Rp 0",
     "detail": "Paket khusus untuk ibadah Umrah & Haji dengan kuota unlimited. Berkah dan lancar ibadah.\nBarokallahu fiik\nSupported payment: Balance, E-Wallet, QRIS.",
     "packages": [
@@ -773,7 +773,7 @@
             "migration_type": "NONE",
             "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
             "option_name": "PAKET BERKAH UMRAH",
-            "order": 27
+            "order": 18
         },
         {
             "family_name": "Paket Haji Mabrur",
@@ -788,36 +788,6 @@
     "payment_for": "BUY_PACKAGE",
     "ask_overwrite": false,
     "overwrite_amount": 99000,
-    "token_confirmation_idx": 0,
-    "amount_idx": -1
-},
-{
-    "name": "Student Special Unlimited 📚",
-    "price": "Rp 0",
-    "detail": "Paket khusus pelajar/mahasiswa dengan akses edukasi unlimited.\nBonus Zoom Premium + Microsoft Office 365.\nSupported payment: Balance.",
-    "packages": [
-        {
-            "family_name": "myPRIO Student Edition",
-            "family_code": "162d261b-05c7-450c-9b7a-1873b160140c", 
-            "is_enterprise": false,
-            "migration_type": "NONE",
-            "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
-            "option_name": "Student Ultimate Access",
-            "order": 25
-        },
-        {
-            "family_name": "Education Network Plus",
-            "family_code": "0895946e-d277-4218-914c-b663c09debf7",
-            "is_enterprise": false,
-            "migration_type": "NONE", 
-            "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
-            "option_name": "Learning Premium Access",
-            "order": 18
-        }
-    ],
-    "payment_for": "BUY_PACKAGE",
-    "ask_overwrite": false,
-    "overwrite_amount": 120000,
     "token_confirmation_idx": 0,
     "amount_idx": -1
 }
